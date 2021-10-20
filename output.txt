@@ -1,0 +1,131 @@
+Detected text
+----------
+Detected text:This is the first line of
+Confidence: 99.92%
+Id: 0
+Type:LINE
+
+Detected text:this text example.
+Confidence: 100.00%
+Id: 1
+Type:LINE
+
+Detected text:This is the second line
+Confidence: 100.00%
+Id: 2
+Type:LINE
+
+Detected text:of the same text.
+Confidence: 100.00%
+Id: 3
+Type:LINE
+
+Detected text:This
+Confidence: 100.00%
+Id: 4
+Parent Id: 0
+Type:WORD
+
+Detected text:is
+Confidence: 100.00%
+Id: 5
+Parent Id: 0
+Type:WORD
+
+Detected text:the
+Confidence: 100.00%
+Id: 6
+Parent Id: 0
+Type:WORD
+
+Detected text:first
+Confidence: 100.00%
+Id: 7
+Parent Id: 0
+Type:WORD
+
+Detected text:line
+Confidence: 100.00%
+Id: 8
+Parent Id: 0
+Type:WORD
+
+Detected text:of
+Confidence: 99.50%
+Id: 9
+Parent Id: 0
+Type:WORD
+
+Detected text:this
+Confidence: 100.00%
+Id: 10
+Parent Id: 1
+Type:WORD
+
+Detected text:text
+Confidence: 100.00%
+Id: 11
+Parent Id: 1
+Type:WORD
+
+Detected text:example.
+Confidence: 100.00%
+Id: 12
+Parent Id: 1
+Type:WORD
+
+Detected text:This
+Confidence: 100.00%
+Id: 13
+Parent Id: 2
+Type:WORD
+
+Detected text:is
+Confidence: 100.00%
+Id: 14
+Parent Id: 2
+Type:WORD
+
+Detected text:the
+Confidence: 100.00%
+Id: 15
+Parent Id: 2
+Type:WORD
+
+Detected text:second
+Confidence: 100.00%
+Id: 16
+Parent Id: 2
+Type:WORD
+
+Detected text:line
+Confidence: 100.00%
+Id: 17
+Parent Id: 2
+Type:WORD
+
+Detected text:of
+Confidence: 100.00%
+Id: 18
+Parent Id: 3
+Type:WORD
+
+Detected text:the
+Confidence: 100.00%
+Id: 19
+Parent Id: 3
+Type:WORD
+
+Detected text:same
+Confidence: 100.00%
+Id: 20
+Parent Id: 3
+Type:WORD
+
+Detected text:text.
+Confidence: 100.00%
+Id: 21
+Parent Id: 3
+Type:WORD
+
+Text detected: 22
